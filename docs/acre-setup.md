@@ -29,7 +29,7 @@ If ACRE2 plugin installation fails, try running the launcher as administrator. T
 
 If neither of the above methods worked you will have to copy the plugins manually. This can commonly occur if you have Teamspeak in a non-standard location.
 
-1. Navigate to `<steam-install-directory>\steamapps\common\Arma 3\!Workshop\@ACRE2\plugin`. Note that the !Workshop directory is a hidden folder and you may have to reveal hidden files and folders in Windows Explorer to locate it.
+1. Navigate to `<steam-install-directory>\steamapps\common\Arma 3\!Workshop\@ACRE2\plugin`. Note that the `!Workshop` directory is a hidden folder and you may have to reveal hidden files and folders in Windows Explorer to locate it.
 2. Select and copy the `acre2_win32.dll` and `acre2_win64.dll` files.
 3. Navigate to `%APPDATA%\TS3Client\plugins` and paste both plugin files.
 
@@ -53,9 +53,9 @@ The next step is to connect to the server and verify that the server correctly r
 2. Click on `Connect`
 3. Enter `oronar.net` in the server address field.
 4. Enter a nickname in the nickname field.
-5. Click the `Connect button.
+5. Click the `Connect` button.
 6. Click on your nickname in the server list and verify that you have an ACRE2 status in the right panel.
 
 ![verify status](assets\acre-setup\acre-status.png)
 
-You should be able to see your ACRE version, 2.7.2.1022 at the time of writing this guide. You will also see an 'Arma Connected' status. This indicates when you or someone else is in an active Arma mission and can no longer hear anyone on the server who is not also in the mission.
+You should be able to see your ACRE version, 2.7.2.1022 at the time of writing this guide. You will also see an `Arma Connected` status. This indicates when you or someone else is in an active Arma mission and can no longer hear anyone on the server who is not also in the mission.
