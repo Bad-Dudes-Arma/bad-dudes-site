@@ -55,9 +55,7 @@ Bad Dudes regularly uses a set of maps that aren't required for every session an
 
 ### Optional Client Side Mods
 * [3den Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=623475643)
-* [Achilles](https://steamcommunity.com/sharedfiles/filedetails/?id=723217262)
 * [Enhanced Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1223309664)
-
 
 ## Alternate Mod Lists
 
