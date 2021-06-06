@@ -13,7 +13,7 @@ Mod lists can be exported and imported by the Arma launcher as HTML files. These
 Download the mod list file and the only mod in our mod list not present on the Steam Workshop.
 
 1. [Bad Dudes Mod List](assets/mod-installation/bad-dudes-mod-list.html)
-2. [Killoch's Multi-National Pack (mirror)](http://video.unlimitedbaka.works/@K_MNP.zip)
+2. [Killoch's Multi-National Pack (mirror)](https://video.unlimitedbaka.works/@K_MNP.zip)
 
 ## Local Mod Installation
 
