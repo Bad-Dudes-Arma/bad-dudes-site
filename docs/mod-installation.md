@@ -48,14 +48,22 @@ Bad Dudes regularly uses a set of maps that aren't required for every session an
 ### Maps
 * [Angola Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=1446500688)
 * [Bozcaada](https://steamcommunity.com/sharedfiles/filedetails/?id=5246226280)
+* [Ihantala](https://steamcommunity.com/sharedfiles/filedetails/?id=1494115712)
 * [Prei Khmaoch Luong Legacy](https://steamcommunity.com/sharedfiles/filedetails/?id=950966660)
+* [Pulau](https://steamcommunity.com/sharedfiles/filedetails/?id=1423583812)
 * [RHS Prei Khmaoch Luong](https://steamcommunity.com/sharedfiles/filedetails/?id=1978754337)
 * [Ruha](https://steamcommunity.com/sharedfiles/filedetails/?id=1368857262)
+* [Summa](https://steamcommunity.com/sharedfiles/filedetails/?id=1598087521)
+* [Suursaari](https://steamcommunity.com/sharedfiles/filedetails/?id=1680294609)
 * [Vidda | LEGACY VERSION](https://steamcommunity.com/sharedfiles/filedetails/?id=1282716647)
+
+
 
 ### Optional Client Side Mods
 * [3den Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=623475643)
 * [Enhanced Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1223309664)
+* [ShackTac User Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=498740884)
+    * This is an alternative to DUI - Squad Radar
 
 ## Alternate Mod Lists
 
