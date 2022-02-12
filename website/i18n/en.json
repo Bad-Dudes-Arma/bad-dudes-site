@@ -5,6 +5,9 @@
     "previous": "Previous",
     "tagline": "The worst Arma group",
     "docs": {
+      "ace-medical": {
+        "title": "The Bad Dude's Primer to being a Bad Dudes Medic"
+      },
       "acre-setup": {
         "title": "ACRE & Teamspeak"
       },
