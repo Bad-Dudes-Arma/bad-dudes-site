@@ -39,7 +39,7 @@ Importing the mod list into the Arma launcher will automatically subscribe you t
 
 ![importing mod list](assets/mod-installation/import-mod-list.png)
 
-Note that once installation of the mods is finished you will have multiple warnings for mods with unmet dependencies.You may ignore these errors and when prompted you should not select the option to automatically setup the missing dependencies. The mod list contains a number of alternate versions of mods that will not match the exact dependencies specified in other mods but will provide the same functionality.
+Note that once installation of the mods is finished you may have multiple warnings for mods with unmet dependencies.You may ignore these errors and when prompted you should not select the option to automatically setup the missing dependencies. The mod list may contain a number of alternate versions of mods that will not match the exact dependencies specified in other mods but will provide the same functionality.
 
 ## Additional mods
 
@@ -57,8 +57,6 @@ Bad Dudes regularly uses a set of maps that aren't required for every session an
 * [Suursaari](https://steamcommunity.com/sharedfiles/filedetails/?id=1680294609)
 * [Vidda | LEGACY VERSION](https://steamcommunity.com/sharedfiles/filedetails/?id=1282716647)
 
-
-
 ### Optional Client Side Mods
 * [3den Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=623475643)
 * [Enhanced Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1223309664)
@@ -70,3 +68,4 @@ Bad Dudes regularly uses a set of maps that aren't required for every session an
 Occasionally Bad Dudes will do series of sessions with an alternate mod list, such as our World War II themed mod list. These lists can be installed in the same method as the regular mod list. Unload all mods before importing a mod list. Unless otherwise specified all mods are included in the mod list.
 
 * [World War II](assets/mod-installation/bad-dudes-wwii-mod-list.html)
+* [SciFi](assets/mod-installation//bad-clones-mod-list.html)
