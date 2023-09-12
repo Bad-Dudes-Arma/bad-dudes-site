@@ -70,4 +70,5 @@ Bad Dudes regularly uses a set of maps that aren't required for every session an
 Occasionally Bad Dudes will do series of sessions with an alternate mod list, such as our World War II themed mod list. These lists can be installed in the same method as the regular mod list. Unload all mods before importing a mod list. Unless otherwise specified all mods are included in the mod list.
 
 * [World War II](assets/mod-installation/bad-dudes-wwii-mod-list.html)
+* [S.O.G. Prairie Fire](assets/bad-dudes-soggers-mod-list.html)
 * [SciFi](assets/mod-installation//bad-clones-mod-list.html)
