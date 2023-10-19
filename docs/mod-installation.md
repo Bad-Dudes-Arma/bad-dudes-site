@@ -10,25 +10,11 @@ Mod lists can be exported and imported by the Arma launcher as HTML files. These
 
 ## Required Files
 
-Download the mod list file and the only mod in our mod list not present on the Steam Workshop.
+Download the mod list file below.
 
 ARMA modlist files are valid HTML and can be viewed in the browser to see a visual representation of the list. Follow the link and use `CTRL-S` to save the file locally to your computer for import into the ARMA launcher.
 
 1. [Bad Dudes Mod List](assets/mod-installation/bad-dudes-mod-list.html)
-2. [Killoch's Multi-National Pack (mirror)](https://video.unlimitedbaka.works/@K_MNP.zip)
-
-## Local Mod Installation
-
-Our mod list contains one mod that isn't present on the Steam Workshop, Killoch's Multi-National Pack. This must be added to the Arma launcher as a local mod.
-
-1. Download the mod from the Armaholic link above.
-2. Extract the `@K_MNP` directory from the RAR archive.
-3. Move the `@K_MNP` directory to your Arma installation directory. This is commonly `<steam-install-directory>\steamapps\common\Arma 3`.
-4. Launch Arma 3 and select `MODS` on the left column of the Arma launcher.
-5. Click the `Local Mod` button at the top.
-6. Navigate to the `@K_MNP` directory in your Arma installation and click `Select folder`.
-
-![import local mods](assets/mod-installation/import-local-mod.png)
 
 ## Importing the mod list
 
@@ -72,3 +58,6 @@ Occasionally Bad Dudes will do series of sessions with an alternate mod list, su
 * [World War II](assets/mod-installation/bad-dudes-wwii-mod-list.html)
 * [S.O.G. Prairie Fire](assets/bad-dudes-soggers-mod-list.html)
 * [SciFi](assets/mod-installation//bad-clones-mod-list.html)
+
+## Previous Mods
+* [Killoch's Multi-National Pack (mirror)](https://video.unlimitedbaka.works/@K_MNP.zip)
