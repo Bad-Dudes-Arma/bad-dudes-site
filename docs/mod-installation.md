@@ -12,7 +12,11 @@ Mod lists can be exported and imported by the Arma launcher as HTML files. These
 
 Download the mod list file below.
 
-ARMA modlist files are valid HTML and can be viewed in the browser to see a visual representation of the list. Follow the link and use `CTRL-S` to save the file locally to your computer for import into the ARMA launcher.
+ARMA modlist files are valid HTML and can be viewed in the browser to see a visual representation of the list. Follow the link and use `CTRL-S` to save the file locally to your computer for import into the ARMA launcher. 
+
+Make sure you select `Webpage, HTML Only` in the `Save as type` dropdown.
+
+![save as type](assets/mod-installation/save-as-html-only.png)
 
 1. [Bad Dudes Mod List](assets/mod-installation/bad-dudes-mod-list.html)
 
