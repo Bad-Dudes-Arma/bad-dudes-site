@@ -37,6 +37,12 @@ Note that once installation of the mods is finished you may have multiple warnin
 
 Bad Dudes regularly uses a set of maps that aren't required for every session and are not included in the main mod list. An announcement prior to the session will be made if the one of these maps is required. If you like, you can subscribe to these Steam Workshop items to have them ready to go.
 
+### Global Mobilization Compatibility
+
+If you do not have the GlobMob DLC, subscribe to the following mod.
+
+* [Global Mobilization - Cold War Germany: Compatibility Data for Non-Owners](https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269)
+
 ### Maps
 * [Angola Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=1446500688)
 * [Bozcaada](https://steamcommunity.com/sharedfiles/filedetails/?id=5246226280)
